@@ -55,7 +55,9 @@ My-little-Library/
 
 ### Option 1: Open directly in a browser
 
-Simply open the `My little Library.html` file in your browser.
+Simply open the `My little Library.html` file in your browser — or click the hosted preview below to open it instantly:
+
+https://raw.githack.com/khaoukhaou4869-jpg/My-little-Library/main/My%20little%20Library.html#home
 
 ### Option 2: Run a local server
 
