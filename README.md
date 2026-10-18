@@ -103,7 +103,7 @@ This project is currently a personal mini-project and does not include a formal 
 
 ## Contact
 
-- Email: khaoula.rouis@example.com
+- Email: khaou.khaou.4869@gmail.com
 - GitHub: https://github.com/khaoukhaou4869-jpg
 
 ## Future Improvements
