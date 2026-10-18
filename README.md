@@ -24,7 +24,6 @@ My-little-Library/
 ├── style.css
 ├── articles/
 ├── images/
-└── style.css
 ```
 
 ## Files Included
