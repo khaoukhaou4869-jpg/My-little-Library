@@ -23,24 +23,7 @@ My-little-Library/
 ├── about.html
 ├── style.css
 ├── articles/
-│   ├── the adventures of sherlock holmes.html
-│   ├── the hound of the baskervilles.html
-│   ├── the sign of the four.html
-│   ├── memoirs of sherlock holmes.html
-│   ├── the subtle art of not giving a fuck.html
-│   ├── rich dad poor dad.html
-│   ├── scarlet angel.html
-│   └── paint it all red.html
 ├── images/
-│   ├── the_adventure_of_sherlock_holmes.jpg
-│   ├── the_hound_of_the_baskervilles.jpg
-│   ├── the_sign_of_the_four.jpg
-│   ├── memoirs_of_sherlock_holmes.jpg
-│   ├── the_subtle_art_of_not_giving_a_fuck.png
-│   ├── rich_dad_poor_dad.jpg
-│   ├── scalet_angel.jpg
-│   ├── paint_it_all_red.jpg
-│   └── kitten.jpg
 └── style.css
 ```
 
@@ -98,18 +81,6 @@ The project focuses on:
 - aesthetic readability
 - easy navigation
 - a warm and minimal reading experience
-
-## Included Book Reviews
-
-The site includes reviews for books such as:
-- The Adventures of Sherlock Holmes
-- The Hound of the Baskervilles
-- The Sign of the Four
-- Memoirs of Sherlock Holmes
-- The Subtle Art of Not Giving a Fuck
-- Rich Dad Poor Dad
-- Scarlet Angel
-- Paint It All Red
 
 ## Customization Ideas
 
